@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-see this Project in this [link](https://immense-inlet-47223.herokuapp.com/)
+see this Project in this link: [blogger](https://immense-inlet-47223.herokuapp.com/)
